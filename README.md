@@ -53,8 +53,3 @@ curl -u "YOUR_USERNAME:YOUR_ACCESS_KEY" \
 3. Khi run browser stack với username, pass, id :
    mvn test -DuserName=cuongvu_FerjhE -DaccessKey=idKAyrfQhD8DzT2su7Xe -DappId=bs://8223a66b66c48e4e42c5fc779252d85a829d1bdd
 
-
-
-
-
-   https://vietinbank-tructuyen.webex.com/vietinbank-tructuyen/j.php?MTID=ma58808b0fc3d4fdf3968849ea3a7c8b8
